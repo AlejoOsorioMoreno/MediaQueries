@@ -355,7 +355,11 @@ footer span{
     nav button {
         width: 80px;
         height: 42px;
+        margin-left: 32%;
       }
+    a{
+        margin-left: 50px;
+    }
     .Superior{
         display: block;
         background-color: #1e172f;
