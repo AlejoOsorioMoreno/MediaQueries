@@ -353,8 +353,8 @@ footer span{
 		--color-ppal:rgb(18, 99, 44);
 	}
     nav button {
-        color: white;
         width: 80px;
+        height: 42px;
       }
     .Superior{
         display: block;
